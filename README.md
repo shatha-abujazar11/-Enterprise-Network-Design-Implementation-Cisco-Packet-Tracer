@@ -96,3 +96,14 @@ Connectivity was verified using:
 ## 👩‍💻 Author
 Shatha Rasmy AbuJazar  
 Computer Networks – Practical Final Project
+
+## 🖼 Network Topologies
+
+### Q1 – Basic Static Routing
+![Q1](q1-topology.png)
+
+### Q3 – Multi-Router with Services
+![Q3](q3-topology.png)
+
+### Q4 – Advanced Enterprise Network
+![Q4](q4-topology.png)
